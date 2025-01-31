@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/redsel/development/flutterprojects/task_management_app/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/home/redsel/development/flutterprojects/task_management_app/build/app"
+    bootClassPath="/home/redsel/Android/Sdk/platforms/android-34/android.jar:/home/redsel/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
